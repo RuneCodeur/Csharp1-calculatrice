@@ -1,0 +1,10 @@
+C:\Users\Rak4m\Desktop\projetC#\Csharp1-calculatrice\calculatrice\bin\Release\Calculatrice.exe.config
+C:\Users\Rak4m\Desktop\projetC#\Csharp1-calculatrice\calculatrice\bin\Release\Calculatrice.exe
+C:\Users\Rak4m\Desktop\projetC#\Csharp1-calculatrice\calculatrice\bin\Release\Calculatrice.pdb
+C:\Users\Rak4m\Desktop\projetC#\Csharp1-calculatrice\calculatrice\obj\Release\Calculatrice.csproj.AssemblyReference.cache
+C:\Users\Rak4m\Desktop\projetC#\Csharp1-calculatrice\calculatrice\obj\Release\Calculatrice.Form1.resources
+C:\Users\Rak4m\Desktop\projetC#\Csharp1-calculatrice\calculatrice\obj\Release\Calculatrice.Properties.Resources.resources
+C:\Users\Rak4m\Desktop\projetC#\Csharp1-calculatrice\calculatrice\obj\Release\Calculatrice.csproj.GenerateResource.cache
+C:\Users\Rak4m\Desktop\projetC#\Csharp1-calculatrice\calculatrice\obj\Release\Calculatrice.csproj.CoreCompileInputs.cache
+C:\Users\Rak4m\Desktop\projetC#\Csharp1-calculatrice\calculatrice\obj\Release\Calculatrice.exe
+C:\Users\Rak4m\Desktop\projetC#\Csharp1-calculatrice\calculatrice\obj\Release\Calculatrice.pdb
